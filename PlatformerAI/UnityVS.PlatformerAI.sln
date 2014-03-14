@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.0
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PlatformerAI.CSharp", "UnityVS.PlatformerAI.CSharp.csproj", "{F5790BD2-EC75-E58A-E302-59F8EFF385B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5790BD2-EC75-E58A-E302-59F8EFF385B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5790BD2-EC75-E58A-E302-59F8EFF385B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5790BD2-EC75-E58A-E302-59F8EFF385B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5790BD2-EC75-E58A-E302-59F8EFF385B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
